@@ -1,0 +1,8 @@
+Extensions installed on WSL: Ubuntu:
+eamodio.gitlens
+esbenp.prettier-vscode
+ms-dotnettools.csdevkit
+ms-dotnettools.csharp
+ms-dotnettools.vscode-dotnet-runtime
+pkief.material-icon-theme
+ritwickdey.liveserver
